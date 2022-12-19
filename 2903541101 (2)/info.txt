@@ -15,5 +15,5 @@
 [STEAM_TAG:traduction]
 [STEAM_DESCRIPTION:Traduction des items du jeux en Francais.]
 [STEAM_METADATA:pas de metadata]
-[STEAM_CHANGELOG:Ajout des matières non organique]
+[STEAM_CHANGELOG:Ajout des matieres non organique]
 [STEAM_FILE_ID:2903541101]
