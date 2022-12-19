@@ -1,0 +1,135 @@
+inorganic_metal_fr
+
+[OBJECT:INORGANIC]
+
+[INORGANIC:IRON]
+	[STATE_NAME_ADJ:ALL_SOLID:fer]
+	[STATE_NAME_ADJ:LIQUID:fer fondu]
+	[STATE_NAME_ADJ:GAS:fer en ebullition]
+
+[INORGANIC:GOLD]
+	[STATE_NAME:SOLID:or]
+	[STATE_NAME:SOLID_POWDER:or poudreux]
+	[STATE_ADJ:ALL_SOLID:aurifère]
+	[STATE_NAME_ADJ:LIQUID:or fondu]
+	[STATE_NAME_ADJ:GAS:or en ebullition]
+
+[INORGANIC:SILVER]
+	[STATE_NAME_ADJ:ALL_SOLID:argent]
+	[STATE_NAME_ADJ:LIQUID:argent fondu]
+	[STATE_NAME_ADJ:GAS:argent en ebullition]
+
+[INORGANIC:COPPER]
+	[STATE_NAME_ADJ:ALL_SOLID:cuivre]
+	[STATE_NAME_ADJ:LIQUID:cuivre fondu]
+	[STATE_NAME_ADJ:GAS:cuivre en ebullition]
+
+[INORGANIC:NICKEL]
+	[STATE_NAME_ADJ:ALL_SOLID:nickel]
+	[STATE_NAME_ADJ:LIQUID:nickel fondu]
+	[STATE_NAME_ADJ:GAS:nickel en ebullition]
+
+[INORGANIC:ZINC]
+	[STATE_NAME_ADJ:ALL_SOLID:zinc]
+	[STATE_NAME_ADJ:LIQUID:zinc fondu]
+	[STATE_NAME_ADJ:GAS:zinc en ebullition]
+
+[INORGANIC:BRONZE]
+	[STATE_NAME_ADJ:ALL_SOLID:bronze]
+	[STATE_NAME_ADJ:LIQUID:bronze fondu]
+	[STATE_NAME_ADJ:GAS:bronze en ebullition]
+
+[INORGANIC:BRASS]
+	[STATE_NAME_ADJ:ALL_SOLID:laiton]
+	[STATE_NAME_ADJ:LIQUID:laiton fondu]
+	[STATE_NAME_ADJ:GAS:laiton en ebullition]
+
+[INORGANIC:STEEL]
+	[STATE_NAME_ADJ:ALL_SOLID:acier]
+	[STATE_NAME_ADJ:LIQUID:acier fondu]
+	[STATE_NAME_ADJ:GAS:acier en ebullition]
+
+[INORGANIC:PIG_IRON]
+	[STATE_NAME_ADJ:ALL_SOLID:fonte]
+	[STATE_NAME_ADJ:LIQUID:fonte fondu]
+	[STATE_NAME_ADJ:GAS:fonte en ebullition]
+
+[INORGANIC:PLATINUM]
+	[STATE_NAME_ADJ:ALL_SOLID:platine]
+	[STATE_NAME_ADJ:LIQUID:platine fondu]
+	[STATE_NAME_ADJ:GAS:platine en ebullition]
+
+[INORGANIC:ELECTRUM]
+	[STATE_NAME_ADJ:ALL_SOLID:electrum]
+	[STATE_NAME_ADJ:LIQUID:electrum fondu]
+	[STATE_NAME_ADJ:GAS:electrum en ebullition]
+
+[INORGANIC:TIN]
+	[STATE_NAME_ADJ:ALL_SOLID:etain]
+	[STATE_NAME_ADJ:LIQUID:etain fondu]
+	[STATE_NAME_ADJ:GAS:etain en ebullition]
+
+[INORGANIC:PEWTER_FINE]
+	[STATE_NAME_ADJ:ALL_SOLID:airain(riche)]
+	[STATE_NAME_ADJ:LIQUID:airain(riche) fondu]
+	[STATE_NAME_ADJ:GAS:airain(riche) en ebullition]
+
+[INORGANIC:PEWTER_TRIFLE]
+	[STATE_NAME_ADJ:ALL_SOLID:airain(moyen)]
+	[STATE_NAME_ADJ:LIQUID:airain(moyen) fondu]
+	[STATE_NAME_ADJ:GAS:airain(moyen) en ebullition]
+
+[INORGANIC:PEWTER_LAY]
+	[STATE_NAME_ADJ:ALL_SOLID:airain(pauvre)]
+	[STATE_NAME_ADJ:LIQUID:airain(pauvre) fondu]
+	[STATE_NAME_ADJ:GAS:airain(pauvre) en ebullition]
+
+[INORGANIC:LEAD]
+	[STATE_NAME_ADJ:ALL_SOLID:plomb]
+	[STATE_NAME_ADJ:LIQUID:plomb fondu]
+	[STATE_NAME_ADJ:GAS:plomb en ebullition]
+
+[INORGANIC:ALUMINUM]
+	[STATE_NAME_ADJ:ALL_SOLID:aluminum]
+	[STATE_NAME_ADJ:LIQUID:aluminum fondu]
+	[STATE_NAME_ADJ:GAS:aluminum en ebullition]
+
+[INORGANIC:NICKEL_SILVER]
+	[STATE_NAME_ADJ:ALL_SOLID:maillechort]
+	[STATE_NAME_ADJ:LIQUID:maillechort fondu]
+	[STATE_NAME_ADJ:GAS:maillechort en ebullition]
+
+[INORGANIC:BILLON]
+	[STATE_NAME_ADJ:ALL_SOLID:billon]
+	[STATE_NAME_ADJ:LIQUID:billon fondu]
+	[STATE_NAME_ADJ:GAS:billon en ebullition]
+
+[INORGANIC:STERLING_SILVER]
+	[STATE_NAME_ADJ:ALL_SOLID:argent sterling]
+	[STATE_NAME_ADJ:LIQUID:argent sterling fondu]
+	[STATE_NAME_ADJ:GAS:argent sterling en ebullition]
+
+[INORGANIC:BLACK_BRONZE]
+	[STATE_NAME_ADJ:ALL_SOLID:bronze noir]
+	[STATE_NAME_ADJ:LIQUID:bronze noir fondu]
+	[STATE_NAME_ADJ:GAS:bronze noir en ebullition]
+
+[INORGANIC:ROSE_GOLD]
+	[STATE_NAME_ADJ:ALL_SOLID:or rose]
+	[STATE_NAME_ADJ:LIQUID:or rose fondu]
+	[STATE_NAME_ADJ:GAS:or rose en ebullition]
+
+[INORGANIC:BISMUTH]
+	[STATE_NAME_ADJ:ALL_SOLID:bismuth]
+	[STATE_NAME_ADJ:LIQUID:bismuth fondu]
+	[STATE_NAME_ADJ:GAS:bismuth en ebullition]
+
+[INORGANIC:BISMUTH_BRONZE]
+	[STATE_NAME_ADJ:ALL_SOLID:bismuth bronze]
+	[STATE_NAME_ADJ:LIQUID:bismuth bronze fondu]
+	[STATE_NAME_ADJ:GAS:bismuth bronze en ebullition]
+
+[INORGANIC:ADAMANTINE]
+	[STATE_NAME_ADJ:ALL_SOLID:adamantium]
+	[STATE_NAME_ADJ:LIQUID:adamantium fondu]
+	[STATE_NAME_ADJ:GAS:adamantium en ebullition]
