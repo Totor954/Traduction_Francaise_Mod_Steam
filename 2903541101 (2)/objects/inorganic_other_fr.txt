@@ -1,0 +1,32 @@
+inorganic_other_fr
+
+[OBJECT:INORGANIC]
+
+[INORGANIC:PLASTER]
+	[STATE_NAME_ADJ:ALL:en plâtre]
+
+[INORGANIC:CERAMIC_EARTHENWARE]
+	[STATE_NAME_ADJ:ALL:en faïence]
+
+[INORGANIC:CERAMIC_STONEWARE]
+	[STATE_NAME_ADJ:ALL:en grès]
+
+[INORGANIC:CERAMIC_PORCELAIN]
+	[STATE_NAME_ADJ:ALL:en porcelaine]
+
+[INORGANIC:ASH_GLAZE]
+	[STATE_NAME:ALL:émail de cendre]
+	[STATE_NAME_ADJ:ALL:en émail de cendre]
+
+[INORGANIC:TIN_GLAZE]
+	[STATE_NAME:ALL:émail d'étain]
+	[STATE_NAME_ADJ:ALL:en émail d'étain]
+
+[INORGANIC:QUICKLIME] calcium oxide from limestone
+	[STATE_NAME:ALL:oxyde de calcium]
+	[STATE_NAME_ADJ:ALL:en oxyde de calcium]
+
+[INORGANIC:MILK_OF_LIME] limewater / hydrated calcium oxide
+	[STATE_NAME:ALL:lait de chaux]
+	[STATE_NAME_ADJ:ALL:en lait de chaux]
+

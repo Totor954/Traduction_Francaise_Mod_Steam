@@ -133,3 +133,4 @@ inorganic_metal_fr
 	[STATE_NAME_ADJ:ALL_SOLID:adamantium]
 	[STATE_NAME_ADJ:LIQUID:adamantium fondu]
 	[STATE_NAME_ADJ:GAS:adamantium en ebullition]
+	
